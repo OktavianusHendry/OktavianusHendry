@@ -1,16 +1,18 @@
-### Hi there 👋
+## Halo! 
 
-<!--
-**OktavianusHendry/OktavianusHendry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Oktavianus Hendry Wijaya**.
 
-Here are some ideas to get you started:
+I am a student at Pradita University - Information Technology since 2021.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And right now, I am joining Bangkit 2023 Batch 2.
+
+Come and get to know me better at [Instagram](https://www.instagram.com/oktav._) or add me at Discord: rcha.
+
+Nice to meet you!
+
+<p align="left">
+<a href="https://github.com/OktavianusHendry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OktavianusHendry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OktavianusHendry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
