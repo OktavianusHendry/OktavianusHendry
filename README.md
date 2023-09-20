@@ -8,7 +8,7 @@ And right now, I am joining Bangkit 2023 Batch 2.
 
 Come and get to know me better at [Instagram](https://www.instagram.com/oktav._) or add me at Discord: rcha.
 
-Nice to meet you!
+Nice to meet you! :)
 
 <p align="left">
 <a href="https://github.com/OktavianusHendry">
