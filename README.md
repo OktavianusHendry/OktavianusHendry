@@ -4,7 +4,7 @@ I am **Oktavianus Hendry Wijaya**.
 
 I am a student at Pradita University - Information Technology since 2021.
 
-And right now, I am joining Bangkit 2023 Batch 2.
+Graduated from Bangkit Academy 2023 Batch 2 - Mobile Development.
 
 Come and get to know me better at [Instagram](https://www.instagram.com/oktav._) or add me at Discord: rcha.
 
