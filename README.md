@@ -6,7 +6,9 @@ I am a student at Pradita University - Information Technology since 2021.
 
 I Graduated from Bangkit Academy 2023 Batch 2 - Mobile Development.
 
-Come and get to know me better at [Instagram](https://www.instagram.com/oktav._) or add me at Discord: rcha.
+Come and get to know me better at [![Instagram](https://img.shields.io/badge/-Oktav.-magenta?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/oktav._) or add me at Discord: rcha.
+
+:mailbox: Another way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oktavianus_Hendry_Wijaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oktavianus-hendry-wijaya-b60066239/)
 
 Nice to meet you! :)
 
