@@ -1,10 +1,10 @@
 ## Halo! 
 
-I am **Oktavianus Hendry Wijaya**.
+- I am **Oktavianus Hendry Wijaya**.
 
-I am a student at Pradita University - Information Technology since 2021.
+- I am a student at Pradita University - Information Technology since 2021.
 
-I Graduated from Bangkit Academy 2023 Batch 2 - Mobile Development.
+- I Graduated from Bangkit Academy 2023 Batch 2 - Mobile Development.
 
 Come and get to know me better at [![Instagram](https://img.shields.io/badge/-Oktav.-magenta?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/oktav._) or add me at Discord: rcha.
 
