@@ -1,20 +1,23 @@
-## Halo! 
+<h1 align="center">Hi 👋, I'm Oktavianus Hendry</h1>
+<h3 align="center">3rd Year IT Student from Pradita University, </br> Passionate and Ambitious.</h3>
 
-- I am **Oktavianus Hendry Wijaya**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oktavianushendry&label=Profile%20views&color=0e75b6&style=flat" alt="oktavianushendry" /> </p>
 
-- I am a student at Pradita University - Information Technology since 2021.
+- 🔭 I Graduated from [Bangkit Academy 2023 Batch 2 - Mobile Development](https://www.linkedin.com/posts/oktavianus-hendry-wijaya-b60066239_lifeatbangkit-activity-7164937591853707264-3QJl?utm_source=share&utm_medium=member_desktop)
 
-- I Graduated from Bangkit Academy 2023 Batch 2 - Mobile Development.
+- 🌱 I’m currently learning **Android and Internet of Things!**
 
-Come and get to know me better at [![Instagram](https://img.shields.io/badge/-Oktav.-magenta?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/oktav._) or add me at Discord: rcha.
+- 📫 How to reach me **oktavianush17@gmail.com** or **rcha** at Discord
 
-:mailbox: Another way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oktavianus_Hendry_Wijaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oktavianus-hendry-wijaya-b60066239/)
-
-Nice to meet you! :)
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/OktavianusHendry">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OktavianusHendry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OktavianusHendry&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://linkedin.com/in/oktavianus-hendry-wijaya-b60066239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oktavianus-hendry-wijaya-b60066239" height="30" width="40" /></a>
+<a href="https://instagram.com/oktav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oktav._" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktavianushendry&show_icons=true&locale=en&layout=compact" alt="oktavianushendry" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktavianushendry&show_icons=true&locale=en" alt="oktavianushendry" /></p>
