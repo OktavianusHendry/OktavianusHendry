@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oktavianus Hendry</h1>
-<h3 align="center">3rd Year IT Student from Pradita University, </br> Passionate and Ambitious.</h3>
+<h3 align="center">IT Graduate from Pradita University, </br> Passionate and Ambitious.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktavianushendry&label=Profile%20views&color=0e75b6&style=flat" alt="oktavianushendry" /> </p>
 
